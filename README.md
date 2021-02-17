@@ -1,7 +1,7 @@
-# Grid Master
+# Grid-Master
 
-* Animal emojis arbitrarily arranged in a grid.
-* Flexbox > CSS Grid.
+* animal-emojis arbitrarily arranged in grid
+* uses CSS-Grid for responsiveness
 
 ## Stack
 
